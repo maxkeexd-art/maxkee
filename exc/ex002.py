@@ -1,0 +1,6 @@
+print(x==y)
+print(x)
+print(x)
+print(x)
+print(x)
+print(x)
