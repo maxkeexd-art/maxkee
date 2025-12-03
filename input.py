@@ -1,8 +1,3 @@
-nane =""
-print("What is your name ?")
-name = input("m")
-print("hello user:",name)
-nane =""
-print("What is your name ?")
-name = input("m")
-print("hello user:",name)
+print("What is your name?")
+name = input()
+print("Hello user:", name)
